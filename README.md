@@ -36,4 +36,9 @@ As the app is not on the playstore, the steps to clone and run the repo are as f
 - Wait for the project to build and then click on the Run button to run the app.
 
 **Screenshots**
-![ss](https://user-images.githubusercontent.com/72490093/216946481-c2ed5df1-3182-4d1e-88cd-bbbfa2570f2d.PNG)
+
+
+
+![](RackMultipart20230206-1-rgtvk8_html_5c4a3c0b4e9bbff1.jpg) ![](RackMultipart20230206-1-rgtvk8_html_e972202c158a5027.jpg) ![](RackMultipart20230206-1-rgtvk8_html_952105d5f8934d01.jpg) ![](RackMultipart20230206-1-rgtvk8_html_cf0294cf0c34bd07.jpg) ![](RackMultipart20230206-1-rgtvk8_html_fda8746860c18dc5.jpg)
+
+![](RackMultipart20230206-1-rgtvk8_html_179e4a04450bd127.jpg) ![](RackMultipart20230206-1-rgtvk8_html_557208304c2faeb1.jpg)
