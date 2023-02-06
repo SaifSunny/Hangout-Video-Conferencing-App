@@ -37,8 +37,5 @@ As the app is not on the playstore, the steps to clone and run the repo are as f
 
 **Screenshots**
 
+![ss](https://user-images.githubusercontent.com/72490093/216946797-39848fa2-e638-4f3c-b886-ade1aa5a330d.PNG)
 
-
-![](RackMultipart20230206-1-rgtvk8_html_5c4a3c0b4e9bbff1.jpg) ![](RackMultipart20230206-1-rgtvk8_html_e972202c158a5027.jpg) ![](RackMultipart20230206-1-rgtvk8_html_952105d5f8934d01.jpg) ![](RackMultipart20230206-1-rgtvk8_html_cf0294cf0c34bd07.jpg) ![](RackMultipart20230206-1-rgtvk8_html_fda8746860c18dc5.jpg)
-
-![](RackMultipart20230206-1-rgtvk8_html_179e4a04450bd127.jpg) ![](RackMultipart20230206-1-rgtvk8_html_557208304c2faeb1.jpg)
